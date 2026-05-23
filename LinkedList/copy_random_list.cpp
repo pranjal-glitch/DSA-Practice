@@ -20,17 +20,14 @@ if(head == NULL){
 return NULL;
 }
 
-```
     unordered_map<Node*, Node*> mp;
     Node* temp = head;
 
-    // Step 1: Create new nodes
     while(temp != NULL){
         mp[temp] = new Node(temp->val);
         temp = temp->next;
     }
 
-    // Step 2: Assign next and random
     temp = head;
     while(temp != NULL){
         mp[temp]->next = mp[temp->next];
