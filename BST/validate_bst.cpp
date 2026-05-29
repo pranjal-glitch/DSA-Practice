@@ -10,6 +10,5 @@ bool solve(BinaryTreeNode<int>* root, long long minVal, long long maxVal){
 }
 bool validateBST(BinaryTreeNode<int>* root) 
 {
-    // Write your code here
     return solve(root, LLONG_MIN, LLONG_MAX);
 }
