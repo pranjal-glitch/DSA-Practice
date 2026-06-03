@@ -11,12 +11,9 @@ Approach:
 Time Complexity: O(n*m)
 Space Complexity: O(h)
 */
-
 Node* merge(Node* a, Node* b) {
 if(!a) return b;
 if(!b) return a;
-
-```
 Node* result;
 
 if(a->data < b->data){
@@ -27,7 +24,6 @@ else{
     result = b;
     result->child = merge(a, b->child);
 }
-
 result->next = NULL; // important
 return result;
 ```
