@@ -12,7 +12,6 @@ Approach:
 Time Complexity: O(n)
 Space Complexity: O(1)
 */
-
 class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
@@ -20,10 +19,8 @@ public:
         if(head == NULL || head->next == NULL){
             return NULL;
         }
-
         ListNode* slow = head;
         ListNode* fast = head;
-
         // Detect cycle
         while(fast != NULL && fast->next != NULL){
 
@@ -31,7 +28,6 @@ public:
             fast = fast->next->next;
 
             if(slow == fast){
-
                 // Find cycle start
                 ListNode* temp = head;
 
@@ -39,7 +35,6 @@ public:
                     temp = temp->next;
                     slow = slow->next;
                 }
-
                 return temp;
             }
         }
