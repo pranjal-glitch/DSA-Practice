@@ -12,11 +12,9 @@ Approach:
 Time Complexity: O(n log n)
 Space Complexity: O(log n)
 */
-
 node* findMid(node* head){
 node* slow = head;
 node* fast = head->next;
-
 ```
 while(fast != NULL && fast->next != NULL){
     slow = slow->next;
