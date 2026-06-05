@@ -11,7 +11,6 @@ Approach:
 Note:
 
 * Works only for even-sized queue
-
 Time Complexity: O(n)
 Space Complexity: O(n)
 */
