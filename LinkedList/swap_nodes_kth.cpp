@@ -12,7 +12,6 @@ Approach:
 Time Complexity: O(n)
 Space Complexity: O(1)
 */
-
 class Solution {
 public:
 ListNode* swapNodes(ListNode* head, int k) {
