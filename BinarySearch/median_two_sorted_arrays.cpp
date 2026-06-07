@@ -7,7 +7,6 @@ Approach:
 * Binary search on smaller array
 * Partition both arrays such that:
   left part = right part (balanced)
-
 Conditions:
 l1 <= r2 && l2 <= r1
 
