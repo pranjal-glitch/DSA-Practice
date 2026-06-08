@@ -11,10 +11,7 @@ Approach:
 Time Complexity: O(n * m)
 Space Complexity: O(1) (excluding output)
 */
-
 vector<int> wavePrint(vector<vector<int>> arr, int nRows, int mCols) {
-
-```
 vector<int> ans;
 
 for (int col = 0; col < mCols; col++) {
@@ -33,6 +30,4 @@ for (int col = 0; col < mCols; col++) {
 }
 
 return ans;
-```
-
 }
