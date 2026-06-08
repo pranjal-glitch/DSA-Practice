@@ -5,12 +5,10 @@ Approach 1: Selection Sort (Brute Force)
 Time Complexity: O(n^2)
 Space Complexity: O(1)
 */
-
 class Solution {
 public:
 void sortColors(vector<int>& nums) {
 
-```
     int n = nums.size();
 
     for(int i = 0; i < n - 1; i++) {
@@ -25,6 +23,4 @@ void sortColors(vector<int>& nums) {
         swap(nums[i], nums[minIndex]);
     }
 }
-```
-
 };
