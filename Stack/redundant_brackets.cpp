@@ -9,7 +9,6 @@ Approach:
 
   * Check if any operator exists inside brackets
   * If not → redundant
-
 Time Complexity: O(n)
 Space Complexity: O(n)
 */
