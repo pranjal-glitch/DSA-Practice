@@ -13,7 +13,6 @@ Approach:
 * freespot → keeps track of first free index
 
 Push:
-
 * Take index from freespot
 * Update freespot
 * Link new element to stack
