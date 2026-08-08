@@ -7,6 +7,7 @@ My daily DSA solutions (C++)
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0994-rotting-oranges) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -15,8 +16,10 @@ My daily DSA solutions (C++)
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
