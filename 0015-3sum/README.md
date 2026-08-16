@@ -26,7 +26,6 @@ Notice that the order of the output and the order of the triplets does not matte
 
 <p><strong class="example">Example 3:</strong></p>
 
-
 <pre>
 <strong>Input:</strong> nums = [0,0,0]
 <strong>Output:</strong> [[0,0,0]]
