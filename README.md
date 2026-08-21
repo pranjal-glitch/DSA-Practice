@@ -64,6 +64,7 @@ My daily DSA solutions (C++)
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0018-4sum) |
 ## Math
@@ -84,4 +85,16 @@ My daily DSA solutions (C++)
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0056-merge-intervals) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
