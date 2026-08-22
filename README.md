@@ -11,6 +11,7 @@ My daily DSA solutions (C++)
 | [0048-rotate-image](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0130-surrounded-regions](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0130-surrounded-regions) |
+| [0152-maximum-product-subarray](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0493-reverse-pairs) |
@@ -98,6 +99,7 @@ My daily DSA solutions (C++)
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
+| [0152-maximum-product-subarray](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 ## Manacher
 |  |
 | ------- |
