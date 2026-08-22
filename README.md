@@ -17,6 +17,7 @@ My daily DSA solutions (C++)
 | [0733-flood-fill](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/pranjal-glitch/DSA-Practice/tree/master/1020-number-of-enclaves) |
+| [2965-find-missing-and-repeated-values](https://github.com/pranjal-glitch/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -41,11 +42,13 @@ My daily DSA solutions (C++)
 | [0733-flood-fill](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/pranjal-glitch/DSA-Practice/tree/master/1020-number-of-enclaves) |
+| [2965-find-missing-and-repeated-values](https://github.com/pranjal-glitch/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0525-contiguous-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0525-contiguous-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/pranjal-glitch/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
@@ -71,6 +74,7 @@ My daily DSA solutions (C++)
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0048-rotate-image) |
+| [2965-find-missing-and-repeated-values](https://github.com/pranjal-glitch/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Union-Find
 |  |
 | ------- |
