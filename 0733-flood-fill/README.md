@@ -46,6 +46,7 @@
 <ul>
 	<li><code>m == image.length</code></li>
 	<li><code>n == image[i].length</code></li>
+	
 	<li><code>1 &lt;= m, n &lt;= 50</code></li>
 	<li><code>0 &lt;= image[i][j], color &lt; 2<sup>16</sup></code></li>
 	<li><code>0 &lt;= sr &lt; m</code></li>
