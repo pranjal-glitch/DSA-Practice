@@ -25,7 +25,6 @@ public:
                 dfs(i, isConnected, visited);
             }
         }
-
         return provinces;
     }
 };
