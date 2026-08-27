@@ -77,6 +77,7 @@ My daily DSA solutions (C++)
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0067-add-binary) |
 | [2965-find-missing-and-repeated-values](https://github.com/pranjal-glitch/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Union-Find
 |  |
@@ -96,6 +97,7 @@ My daily DSA solutions (C++)
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
+| [0067-add-binary](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0067-add-binary) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pranjal-glitch/DSA-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Dynamic Programming
 |  |
@@ -137,9 +139,14 @@ My daily DSA solutions (C++)
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0136-single-number) |
 ## Sliding Window
 |  |
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pranjal-glitch/DSA-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
