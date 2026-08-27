@@ -27,7 +27,6 @@
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
-
 <ul>
 	<li><code>1 &lt;= intervals.length &lt;= 10<sup>4</sup></code></li>
 	<li><code>intervals[i].length == 2</code></li>
