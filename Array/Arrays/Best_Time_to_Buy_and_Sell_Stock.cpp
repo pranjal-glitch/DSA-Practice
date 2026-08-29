@@ -8,9 +8,6 @@ Your task is to maximize the profit by choosing:
 - A later day to sell that stock.
 
 Return the maximum profit possible. If no profit can be made, return `0`.
-
----
-
 ## Approach
 
 The idea is to keep track of:
