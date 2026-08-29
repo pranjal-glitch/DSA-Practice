@@ -20,7 +20,6 @@ The original sorted array was:
 
 After rotation, the minimum element remains 0.
 */
-
   #include <bits/stdc++.h>
 using namespace std;
 
