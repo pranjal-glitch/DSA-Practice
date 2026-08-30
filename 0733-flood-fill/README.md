@@ -42,7 +42,6 @@
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
-
 <ul>
 	<li><code>m == image.length</code></li>
 	<li><code>n == image[i].length</code></li>
