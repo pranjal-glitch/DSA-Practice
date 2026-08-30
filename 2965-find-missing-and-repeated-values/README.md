@@ -21,7 +21,6 @@
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
-
 <ul>
 	<li><code>2 &lt;= n == grid.length == grid[i].length &lt;= 50</code></li>
 	<li><code>1 &lt;= grid[i][j] &lt;= n * n</code></li>
