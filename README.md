@@ -26,6 +26,7 @@ My daily DSA solutions (C++)
 | [0994-rotting-oranges](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/pranjal-glitch/DSA-Practice/tree/master/1020-number-of-enclaves) |
 | [2965-find-missing-and-repeated-values](https://github.com/pranjal-glitch/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -57,6 +58,7 @@ My daily DSA solutions (C++)
 | [0229-majority-element-ii](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0525-contiguous-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0525-contiguous-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/pranjal-glitch/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## Sorting
 |  |
 | ------- |
