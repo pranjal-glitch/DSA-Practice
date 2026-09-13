@@ -25,6 +25,7 @@ My daily DSA solutions (C++)
 | [0733-flood-fill](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/pranjal-glitch/DSA-Practice/tree/master/1020-number-of-enclaves) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pranjal-glitch/DSA-Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2965-find-missing-and-repeated-values](https://github.com/pranjal-glitch/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## Depth-First Search
@@ -97,6 +98,7 @@ My daily DSA solutions (C++)
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0525-contiguous-array) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pranjal-glitch/DSA-Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Quicksort
 |  |
 | ------- |
@@ -156,6 +158,7 @@ My daily DSA solutions (C++)
 ## Sliding Window
 |  |
 | ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pranjal-glitch/DSA-Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pranjal-glitch/DSA-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Simulation
 |  |
