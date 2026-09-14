@@ -17,6 +17,7 @@ vector<TreeNode*> build(int start, int end) {
     if(start > end){
         trees.push_back(nullptr);
         return trees;
+    
     }
     for(int i = start; i <= end; i++){
         vector<TreeNode*> leftTrees = build(start, i - 1);
