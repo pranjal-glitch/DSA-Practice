@@ -15,6 +15,7 @@ My daily DSA solutions (C++)
 | [0035-search-insert-position](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0056-merge-intervals) |
+| [0084-largest-rectangle-in-histogram](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0130-surrounded-regions](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0152-maximum-product-subarray) |
@@ -184,4 +185,16 @@ My daily DSA solutions (C++)
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0095-unique-binary-search-trees-ii) |
+## Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
