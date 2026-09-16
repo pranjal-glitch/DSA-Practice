@@ -59,6 +59,7 @@ My daily DSA solutions (C++)
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0525-contiguous-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0525-contiguous-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/pranjal-glitch/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
@@ -74,6 +75,7 @@ My daily DSA solutions (C++)
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -113,6 +115,7 @@ My daily DSA solutions (C++)
 | [0005-longest-palindromic-substring](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0067-add-binary) |
+| [0387-first-unique-character-in-a-string](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pranjal-glitch/DSA-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Dynamic Programming
 |  |
@@ -208,4 +211,8 @@ My daily DSA solutions (C++)
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0206-reverse-linked-list) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
