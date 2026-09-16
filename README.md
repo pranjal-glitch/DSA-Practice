@@ -9,6 +9,7 @@ My daily DSA solutions (C++)
 | ------- |
 | [0014-longest-common-prefix](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -65,6 +66,7 @@ My daily DSA solutions (C++)
 |  |
 | ------- |
 | [0015-3sum](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0229-majority-element-ii) |
@@ -81,6 +83,7 @@ My daily DSA solutions (C++)
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0031-next-permutation) |
 ## Math
