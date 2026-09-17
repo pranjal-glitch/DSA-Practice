@@ -16,6 +16,7 @@ My daily DSA solutions (C++)
 | [0035-search-insert-position](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0056-merge-intervals) |
+| [0074-search-a-2d-matrix](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0130-surrounded-regions](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0136-single-number) |
@@ -49,6 +50,7 @@ My daily DSA solutions (C++)
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0733-flood-fill) |
@@ -132,6 +134,7 @@ My daily DSA solutions (C++)
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0493-reverse-pairs](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0493-reverse-pairs) |
 ## Divide and Conquer
 |  |
