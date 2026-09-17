@@ -34,6 +34,7 @@ My daily DSA solutions (C++)
 ## Depth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0733-flood-fill) |
@@ -41,6 +42,7 @@ My daily DSA solutions (C++)
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0733-flood-fill) |
@@ -186,6 +188,7 @@ My daily DSA solutions (C++)
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0095-unique-binary-search-trees-ii) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -194,6 +197,7 @@ My daily DSA solutions (C++)
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0095-unique-binary-search-trees-ii) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Stack
 |  |
 | ------- |
