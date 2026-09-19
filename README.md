@@ -30,6 +30,7 @@ My daily DSA solutions (C++)
 | [1020-number-of-enclaves](https://github.com/pranjal-glitch/DSA-Practice/tree/master/1020-number-of-enclaves) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pranjal-glitch/DSA-Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2295-replace-elements-in-an-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/2295-replace-elements-in-an-array) |
+| [2460-apply-operations-to-an-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/2460-apply-operations-to-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/pranjal-glitch/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## Depth-First Search
@@ -96,6 +97,7 @@ My daily DSA solutions (C++)
 | [0016-3sum-closest](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0031-next-permutation) |
+| [2460-apply-operations-to-an-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/2460-apply-operations-to-an-array) |
 ## Math
 |  |
 | ------- |
@@ -181,6 +183,7 @@ My daily DSA solutions (C++)
 | ------- |
 | [0067-add-binary](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0067-add-binary) |
 | [2295-replace-elements-in-an-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/2295-replace-elements-in-an-array) |
+| [2460-apply-operations-to-an-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/2460-apply-operations-to-an-array) |
 ## Trie
 |  |
 | ------- |
