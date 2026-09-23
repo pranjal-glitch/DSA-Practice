@@ -97,6 +97,7 @@ My daily DSA solutions (C++)
 | [0016-3sum-closest](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0031-next-permutation) |
+| [0345-reverse-vowels-of-a-string](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/2460-apply-operations-to-an-array) |
 ## Math
 |  |
@@ -126,6 +127,7 @@ My daily DSA solutions (C++)
 | [0005-longest-palindromic-substring](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0067-add-binary) |
+| [0345-reverse-vowels-of-a-string](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pranjal-glitch/DSA-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Dynamic Programming
