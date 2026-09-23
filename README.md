@@ -103,6 +103,7 @@ My daily DSA solutions (C++)
 | ------- |
 | [0048-rotate-image](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0258-add-digits) |
 | [2965-find-missing-and-repeated-values](https://github.com/pranjal-glitch/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Union-Find
 |  |
@@ -182,6 +183,7 @@ My daily DSA solutions (C++)
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0258-add-digits) |
 | [2295-replace-elements-in-an-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/2295-replace-elements-in-an-array) |
 | [2460-apply-operations-to-an-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/2460-apply-operations-to-an-array) |
 ## Trie
@@ -236,4 +238,8 @@ My daily DSA solutions (C++)
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0183-customers-who-never-order) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
