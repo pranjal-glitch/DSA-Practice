@@ -232,4 +232,8 @@ My daily DSA solutions (C++)
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
