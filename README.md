@@ -126,6 +126,7 @@ My daily DSA solutions (C++)
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0014-longest-common-prefix) |
+| [0058-length-of-last-word](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0067-add-binary) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
