@@ -17,6 +17,7 @@ My daily DSA solutions (C++)
 | [0048-rotate-image](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0130-surrounded-regions](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0136-single-number) |
@@ -36,6 +37,7 @@ My daily DSA solutions (C++)
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0079-word-search) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
@@ -57,6 +59,7 @@ My daily DSA solutions (C++)
 | ------- |
 | [0048-rotate-image](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0733-flood-fill) |
@@ -129,6 +132,7 @@ My daily DSA solutions (C++)
 | [0014-longest-common-prefix](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0079-word-search) |
 | [0171-excel-sheet-column-number](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0171-excel-sheet-column-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
@@ -198,6 +202,7 @@ My daily DSA solutions (C++)
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0079-word-search) |
 | [0095-unique-binary-search-trees-ii](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0095-unique-binary-search-trees-ii) |
 ## Tree
 |  |
