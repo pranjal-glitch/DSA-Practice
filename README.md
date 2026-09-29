@@ -69,6 +69,7 @@ My daily DSA solutions (C++)
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
@@ -101,6 +102,7 @@ My daily DSA solutions (C++)
 | [0016-3sum-closest](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0031-next-permutation) |
+| [0202-happy-number](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/2460-apply-operations-to-an-array) |
 ## Math
@@ -109,6 +111,7 @@ My daily DSA solutions (C++)
 | [0048-rotate-image](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0258-add-digits) |
 | [2965-find-missing-and-repeated-values](https://github.com/pranjal-glitch/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Union-Find
@@ -260,4 +263,8 @@ My daily DSA solutions (C++)
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0258-add-digits) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
