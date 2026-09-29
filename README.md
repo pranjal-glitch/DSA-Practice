@@ -69,6 +69,7 @@ My daily DSA solutions (C++)
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0525-contiguous-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0525-contiguous-array) |
@@ -134,6 +135,7 @@ My daily DSA solutions (C++)
 | [0067-add-binary](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0079-word-search) |
 | [0171-excel-sheet-column-number](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pranjal-glitch/DSA-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
