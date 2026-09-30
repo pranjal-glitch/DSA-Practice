@@ -24,6 +24,7 @@ My daily DSA solutions (C++)
 | [0152-maximum-product-subarray](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [0525-contiguous-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0525-contiguous-array) |
 | [0733-flood-fill](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0733-flood-fill) |
@@ -72,6 +73,7 @@ My daily DSA solutions (C++)
 | [0202-happy-number](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0525-contiguous-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0525-contiguous-array) |
 | [2295-replace-elements-in-an-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/2295-replace-elements-in-an-array) |
@@ -85,6 +87,7 @@ My daily DSA solutions (C++)
 | [0018-4sum](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
 |  |
 | ------- |
@@ -104,6 +107,7 @@ My daily DSA solutions (C++)
 | [0031-next-permutation](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0031-next-permutation) |
 | [0202-happy-number](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [2460-apply-operations-to-an-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/2460-apply-operations-to-an-array) |
 ## Math
 |  |
@@ -158,6 +162,7 @@ My daily DSA solutions (C++)
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
+| [0349-intersection-of-two-arrays](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0493-reverse-pairs) |
 ## Divide and Conquer
 |  |
