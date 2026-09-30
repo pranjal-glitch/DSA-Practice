@@ -37,7 +37,6 @@ AB -&gt; 28
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
-
 <ul>
 	<li><code>1 &lt;= columnTitle.length &lt;= 7</code></li>
 	<li><code>columnTitle</code> consists only of uppercase English letters.</li>
