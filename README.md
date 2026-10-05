@@ -167,6 +167,7 @@ My daily DSA solutions (C++)
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0191-number-of-1-bits) |
 | [0493-reverse-pairs](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
@@ -193,6 +194,7 @@ My daily DSA solutions (C++)
 | ------- |
 | [0067-add-binary](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0191-number-of-1-bits) |
 ## Sliding Window
 |  |
 | ------- |
