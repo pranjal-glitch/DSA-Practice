@@ -118,6 +118,7 @@ My daily DSA solutions (C++)
 | [0171-excel-sheet-column-number](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0263-ugly-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/pranjal-glitch/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Union-Find
 |  |
