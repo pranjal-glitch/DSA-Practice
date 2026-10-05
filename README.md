@@ -23,6 +23,7 @@ My daily DSA solutions (C++)
 | [0136-single-number](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0200-number-of-islands) |
+| [0228-summary-ranges](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0493-reverse-pairs) |
