@@ -44,7 +44,6 @@
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
-
 <ul>
 	<li><code>1 &lt;= s.length &lt;= 5 * 10<sup>4</sup></code></li>
 	<li><code>t.length == s.length</code></li>
