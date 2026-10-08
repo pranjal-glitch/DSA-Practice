@@ -149,6 +149,7 @@ My daily DSA solutions (C++)
 | [0290-word-pattern](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [1021-remove-outermost-parentheses](https://github.com/pranjal-glitch/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pranjal-glitch/DSA-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Dynamic Programming
 |  |
@@ -240,6 +241,7 @@ My daily DSA solutions (C++)
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [1021-remove-outermost-parentheses](https://github.com/pranjal-glitch/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -278,4 +280,8 @@ My daily DSA solutions (C++)
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0202-happy-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/pranjal-glitch/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
