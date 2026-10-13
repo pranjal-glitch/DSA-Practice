@@ -30,6 +30,7 @@ My daily DSA solutions (C++)
 | [0349-intersection-of-two-arrays](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [0525-contiguous-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0525-contiguous-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0733-flood-fill](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/pranjal-glitch/DSA-Practice/tree/master/1020-number-of-enclaves) |
@@ -173,6 +174,7 @@ My daily DSA solutions (C++)
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
