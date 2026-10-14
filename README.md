@@ -153,6 +153,7 @@ My daily DSA solutions (C++)
 | [0345-reverse-vowels-of-a-string](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/pranjal-glitch/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pranjal-glitch/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pranjal-glitch/DSA-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Dynamic Programming
 |  |
@@ -248,6 +249,7 @@ My daily DSA solutions (C++)
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [1021-remove-outermost-parentheses](https://github.com/pranjal-glitch/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pranjal-glitch/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -290,4 +292,5 @@ My daily DSA solutions (C++)
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/pranjal-glitch/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pranjal-glitch/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
