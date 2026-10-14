@@ -74,6 +74,7 @@ My daily DSA solutions (C++)
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0229-majority-element-ii) |
@@ -117,6 +118,7 @@ My daily DSA solutions (C++)
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0171-excel-sheet-column-number) |
@@ -143,6 +145,7 @@ My daily DSA solutions (C++)
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0067-add-binary) |
