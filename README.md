@@ -131,6 +131,7 @@ My daily DSA solutions (C++)
 | [0202-happy-number](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0263-ugly-number) |
+| [0342-power-of-four](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0342-power-of-four) |
 | [2965-find-missing-and-repeated-values](https://github.com/pranjal-glitch/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Union-Find
 |  |
@@ -217,6 +218,7 @@ My daily DSA solutions (C++)
 | [0067-add-binary](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0191-number-of-1-bits) |
+| [0342-power-of-four](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0342-power-of-four) |
 ## Sliding Window
 |  |
 | ------- |
@@ -279,6 +281,7 @@ My daily DSA solutions (C++)
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0206-reverse-linked-list) |
+| [0342-power-of-four](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0342-power-of-four) |
 ## Queue
 |  |
 | ------- |
