@@ -178,6 +178,7 @@ My daily DSA solutions (C++)
 | [0035-search-insert-position](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0278-first-bad-version](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
@@ -298,4 +299,8 @@ My daily DSA solutions (C++)
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/pranjal-glitch/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pranjal-glitch/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
