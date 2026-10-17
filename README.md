@@ -44,6 +44,7 @@ My daily DSA solutions (C++)
 |  |
 | ------- |
 | [0079-word-search](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0079-word-search) |
+| [0098-validate-binary-search-tree](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
@@ -245,6 +246,7 @@ My daily DSA solutions (C++)
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0095-unique-binary-search-trees-ii) |
+| [0098-validate-binary-search-tree](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -252,11 +254,13 @@ My daily DSA solutions (C++)
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0095-unique-binary-search-trees-ii) |
+| [0098-validate-binary-search-tree](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0095-unique-binary-search-trees-ii) |
+| [0098-validate-binary-search-tree](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
