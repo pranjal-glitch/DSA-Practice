@@ -53,6 +53,7 @@ My daily DSA solutions (C++)
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0733-flood-fill) |
 | [0872-leaf-similar-trees](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0872-leaf-similar-trees) |
+| [0897-increasing-order-search-tree](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0897-increasing-order-search-tree) |
 | [1020-number-of-enclaves](https://github.com/pranjal-glitch/DSA-Practice/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
 |  |
@@ -258,12 +259,14 @@ My daily DSA solutions (C++)
 | [0404-sum-of-left-leaves](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0872-leaf-similar-trees](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0872-leaf-similar-trees) |
+| [0897-increasing-order-search-tree](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0897-increasing-order-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0897-increasing-order-search-tree](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0897-increasing-order-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -274,10 +277,12 @@ My daily DSA solutions (C++)
 | [0404-sum-of-left-leaves](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0872-leaf-similar-trees](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0872-leaf-similar-trees) |
+| [0897-increasing-order-search-tree](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0897-increasing-order-search-tree) |
 ## Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0897-increasing-order-search-tree](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0897-increasing-order-search-tree) |
 | [1021-remove-outermost-parentheses](https://github.com/pranjal-glitch/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pranjal-glitch/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
