@@ -124,6 +124,7 @@ My daily DSA solutions (C++)
 | [0345-reverse-vowels-of-a-string](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0876-middle-of-the-linked-list](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 | [2460-apply-operations-to-an-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/2460-apply-operations-to-an-array) |
 ## Math
 |  |
@@ -291,6 +292,7 @@ My daily DSA solutions (C++)
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
