@@ -52,6 +52,7 @@ My daily DSA solutions (C++)
 | [0404-sum-of-left-leaves](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0733-flood-fill) |
+| [0872-leaf-similar-trees](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0872-leaf-similar-trees) |
 | [1020-number-of-enclaves](https://github.com/pranjal-glitch/DSA-Practice/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
 |  |
@@ -255,6 +256,7 @@ My daily DSA solutions (C++)
 | [0199-binary-tree-right-side-view](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0872-leaf-similar-trees](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0872-leaf-similar-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -270,6 +272,7 @@ My daily DSA solutions (C++)
 | [0199-binary-tree-right-side-view](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0872-leaf-similar-trees](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0872-leaf-similar-trees) |
 ## Stack
 |  |
 | ------- |
