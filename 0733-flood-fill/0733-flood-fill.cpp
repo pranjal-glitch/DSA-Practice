@@ -24,14 +24,12 @@ private:
         dfs(image, r, c + 1, oldColor, newColor); // Right
         dfs(image, r, c - 1, oldColor, newColor); // Left
     }
-
 public:
     vector<vector<int>> floodFill(vector<vector<int>>& image,
                                    int sr, int sc, int color) {
 
         int oldColor = image[sr][sc];
 
-        // If both colors are same, no changes are needed
         if (oldColor == color)
             return image;
 
