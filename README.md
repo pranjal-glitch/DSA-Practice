@@ -141,6 +141,7 @@ My daily DSA solutions (C++)
 | [0048-rotate-image](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0258-add-digits) |
@@ -185,6 +186,7 @@ My daily DSA solutions (C++)
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0152-maximum-product-subarray](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 ## Manacher
@@ -363,4 +365,8 @@ My daily DSA solutions (C++)
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
