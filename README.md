@@ -48,6 +48,7 @@ My daily DSA solutions (C++)
 | [0079-word-search](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0130-surrounded-regions](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0200-number-of-islands) |
@@ -267,6 +268,7 @@ My daily DSA solutions (C++)
 | [0095-unique-binary-search-trees-ii](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0617-merge-two-binary-trees) |
@@ -286,6 +288,7 @@ My daily DSA solutions (C++)
 | [0095-unique-binary-search-trees-ii](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0617-merge-two-binary-trees) |
@@ -296,6 +299,7 @@ My daily DSA solutions (C++)
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0897-increasing-order-search-tree](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0897-increasing-order-search-tree) |
 | [1021-remove-outermost-parentheses](https://github.com/pranjal-glitch/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pranjal-glitch/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -310,6 +314,7 @@ My daily DSA solutions (C++)
 ## Linked List
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0206-reverse-linked-list](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
