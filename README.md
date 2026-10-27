@@ -53,6 +53,7 @@ My daily DSA solutions (C++)
 | [0199-binary-tree-right-side-view](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0617-merge-two-binary-trees](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0733-flood-fill) |
@@ -271,6 +272,7 @@ My daily DSA solutions (C++)
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0617-merge-two-binary-trees](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0872-leaf-similar-trees](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0872-leaf-similar-trees) |
@@ -280,6 +282,7 @@ My daily DSA solutions (C++)
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0098-validate-binary-search-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0897-increasing-order-search-tree](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0897-increasing-order-search-tree) |
 ## Binary Tree
@@ -291,6 +294,7 @@ My daily DSA solutions (C++)
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0617-merge-two-binary-trees](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0872-leaf-similar-trees](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0872-leaf-similar-trees) |
