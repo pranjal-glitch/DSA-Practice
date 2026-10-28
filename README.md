@@ -40,6 +40,7 @@ My daily DSA solutions (C++)
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pranjal-glitch/DSA-Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2295-replace-elements-in-an-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/2295-replace-elements-in-an-array) |
 | [2460-apply-operations-to-an-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/2460-apply-operations-to-an-array) |
+| [2815-max-pair-sum-in-an-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/2815-max-pair-sum-in-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/pranjal-glitch/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## Depth-First Search
@@ -99,6 +100,7 @@ My daily DSA solutions (C++)
 | [0525-contiguous-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0525-contiguous-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2295-replace-elements-in-an-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/2295-replace-elements-in-an-array) |
+| [2815-max-pair-sum-in-an-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/2815-max-pair-sum-in-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/pranjal-glitch/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## Sorting
