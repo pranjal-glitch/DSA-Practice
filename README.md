@@ -30,6 +30,7 @@ My daily DSA solutions (C++)
 | [0229-majority-element-ii](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0493-reverse-pairs) |
+| [0503-next-greater-element-ii](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0733-flood-fill](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0733-flood-fill) |
@@ -306,6 +307,7 @@ My daily DSA solutions (C++)
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 | [0897-increasing-order-search-tree](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0897-increasing-order-search-tree) |
 | [1021-remove-outermost-parentheses](https://github.com/pranjal-glitch/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pranjal-glitch/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -313,6 +315,7 @@ My daily DSA solutions (C++)
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0503-next-greater-element-ii](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
