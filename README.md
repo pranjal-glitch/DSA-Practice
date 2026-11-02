@@ -29,6 +29,7 @@ My daily DSA solutions (C++)
 | [0228-summary-ranges](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0414-third-maximum-number) |
 | [0493-reverse-pairs](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [0503-next-greater-element-ii](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0525-contiguous-array) |
@@ -114,6 +115,7 @@ My daily DSA solutions (C++)
 | [0056-merge-intervals](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
