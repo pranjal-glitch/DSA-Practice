@@ -25,6 +25,7 @@ My daily DSA solutions (C++)
 | [0130-surrounded-regions](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0228-summary-ranges](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0229-majority-element-ii) |
@@ -216,6 +217,7 @@ My daily DSA solutions (C++)
 | [0035-search-insert-position](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0493-reverse-pairs) |
