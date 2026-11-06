@@ -153,6 +153,7 @@ My daily DSA solutions (C++)
 | [0007-reverse-integer](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0070-climbing-stairs) |
@@ -338,6 +339,7 @@ My daily DSA solutions (C++)
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0206-reverse-linked-list) |
 | [0342-power-of-four](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0342-power-of-four) |
 ## Queue
