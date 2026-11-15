@@ -23,6 +23,7 @@ My daily DSA solutions (C++)
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0130-surrounded-regions](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0152-maximum-product-subarray) |
@@ -118,6 +119,7 @@ My daily DSA solutions (C++)
 | [0016-3sum-closest](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0414-third-maximum-number) |
@@ -142,6 +144,7 @@ My daily DSA solutions (C++)
 | [0018-4sum](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
