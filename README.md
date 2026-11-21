@@ -38,6 +38,7 @@ My daily DSA solutions (C++)
 | [0503-next-greater-element-ii](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0733-flood-fill) |
 | [0905-sort-array-by-parity](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0905-sort-array-by-parity) |
@@ -109,6 +110,7 @@ My daily DSA solutions (C++)
 | [0387-first-unique-character-in-a-string](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0409-longest-palindrome) |
 | [0525-contiguous-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2295-replace-elements-in-an-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/2295-replace-elements-in-an-array) |
 | [2815-max-pair-sum-in-an-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/2815-max-pair-sum-in-an-array) |
@@ -184,6 +186,7 @@ My daily DSA solutions (C++)
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pranjal-glitch/DSA-Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Quicksort
 |  |
