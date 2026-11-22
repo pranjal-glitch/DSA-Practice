@@ -45,6 +45,7 @@ My daily DSA solutions (C++)
 | [0977-squares-of-a-sorted-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/pranjal-glitch/DSA-Practice/tree/master/1020-number-of-enclaves) |
+| [1051-height-checker](https://github.com/pranjal-glitch/DSA-Practice/tree/master/1051-height-checker) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/pranjal-glitch/DSA-Practice/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pranjal-glitch/DSA-Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2295-replace-elements-in-an-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/2295-replace-elements-in-an-array) |
@@ -129,6 +130,7 @@ My daily DSA solutions (C++)
 | [0414-third-maximum-number](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/pranjal-glitch/DSA-Practice/tree/master/1051-height-checker) |
 ## Counting
 |  |
 | ------- |
@@ -428,4 +430,12 @@ My daily DSA solutions (C++)
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0069-sqrtx) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/pranjal-glitch/DSA-Practice/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/pranjal-glitch/DSA-Practice/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
