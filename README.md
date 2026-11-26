@@ -42,6 +42,7 @@ My daily DSA solutions (C++)
 | [0643-maximum-average-subarray-i](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0733-flood-fill) |
 | [0905-sort-array-by-parity](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/pranjal-glitch/DSA-Practice/tree/master/1020-number-of-enclaves) |
@@ -129,6 +130,7 @@ My daily DSA solutions (C++)
 | [0349-intersection-of-two-arrays](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/pranjal-glitch/DSA-Practice/tree/master/1051-height-checker) |
 ## Counting
@@ -246,6 +248,7 @@ My daily DSA solutions (C++)
 | ------- |
 | [0191-number-of-1-bits](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0191-number-of-1-bits) |
 | [0493-reverse-pairs](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0493-reverse-pairs) |
+| [0912-sort-an-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0912-sort-an-array) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -258,6 +261,7 @@ My daily DSA solutions (C++)
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0493-reverse-pairs) |
+| [0912-sort-an-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0912-sort-an-array) |
 ## Ordered Set
 |  |
 | ------- |
@@ -433,9 +437,22 @@ My daily DSA solutions (C++)
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/pranjal-glitch/DSA-Practice/tree/master/1051-height-checker) |
 ## Bubble Sort
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/pranjal-glitch/DSA-Practice/tree/master/1051-height-checker) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
