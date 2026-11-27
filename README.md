@@ -15,6 +15,7 @@ My daily DSA solutions (C++)
 | [0033-search-in-rotated-sorted-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0035-search-insert-position) |
+| [0047-permutations-ii](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0066-plus-one) |
@@ -124,6 +125,7 @@ My daily DSA solutions (C++)
 | [0015-3sum](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0229-majority-element-ii) |
@@ -298,6 +300,7 @@ My daily DSA solutions (C++)
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0079-word-search) |
 | [0095-unique-binary-search-trees-ii](https://github.com/pranjal-glitch/DSA-Practice/tree/master/0095-unique-binary-search-trees-ii) |
 ## Tree
